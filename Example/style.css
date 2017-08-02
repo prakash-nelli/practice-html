@@ -1,3 +1,9 @@
 body {
 background: Green;
 }
+#main {
+width: 1000px;
+height: 600px;
+background: #ffab19
+
+}
